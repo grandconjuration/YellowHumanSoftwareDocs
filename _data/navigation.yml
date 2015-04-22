@@ -1,10 +1,10 @@
 # Site navigation links
 
 - title: Portfolio
-  url: /portfolio/
+  url: /categories/cat
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: 400x250.gif
 - title: More stuff that should work
-  url: /category/update/
+  url: /categories/update/
   excerpt: "Just checking to see wether this will actually work again"
   image: 400x250.gif

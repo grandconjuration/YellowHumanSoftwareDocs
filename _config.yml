@@ -10,7 +10,7 @@ teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale: nl
 url: 
 
-# Jekyll configuration
+# Jekyll configuration12
 
 sass:
     sass_dir: _sass

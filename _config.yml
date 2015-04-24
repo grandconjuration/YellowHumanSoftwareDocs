@@ -40,6 +40,9 @@ prose:
     - /_sass
     - /_templates
     - /_css
+    - /_js
+    - /_images
+    - /_fonts
         
 
 # Site owner

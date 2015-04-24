@@ -21,7 +21,20 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
+  
+ 
 
+#Prose configuratie
+prose:
+	#rooturl: '_posts'
+    siteurl: 'http://docs.simonwhiteley.nl'
+    media: 'media'
+    ignore:
+    	- index.md
+        - _config.yml
+        - /_layouts
+        - /_includes
+        
 
 # Site owner
 owner:

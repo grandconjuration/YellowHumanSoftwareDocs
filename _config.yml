@@ -50,6 +50,11 @@ prose:
     - Gruntfile.js
     - LICENSE
     - README.md
+    - _octopress.yml
+    - apple-touch-icon-precomposed.png
+    - atom.xml
+    - favicon.ico
+    - package.json
         
 
 # Site owner

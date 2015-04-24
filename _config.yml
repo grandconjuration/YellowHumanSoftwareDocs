@@ -26,7 +26,7 @@ gems:
 
 #Prose configuratie
 prose:
-  rooturl: '_posts'
+#  rooturl: '_posts'
   siteurl: 'http://jekyll.simonwhiteley.nl'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'

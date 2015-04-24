@@ -42,6 +42,7 @@ prose:
     - /css
     - /js
     - /fonts
+    - /images
     - .editorconfig
     - .gitignore
     - .jshintrc

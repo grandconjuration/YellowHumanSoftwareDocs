@@ -35,6 +35,11 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /_data
+    - /_plugins
+    - /_sass
+    - /_templates
+    - /_css
         
 
 # Site owner

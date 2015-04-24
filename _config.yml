@@ -39,10 +39,17 @@ prose:
     - /_plugins
     - /_sass
     - /_templates
-    - /_css
-    - /_js
-    - /_images
-    - /_fonts
+    - /css
+    - /js
+    - /fonts
+    - .editorconfig
+    - .gitignore
+    - .jshintrc
+    - Gemfile
+    - Gemfile.lock
+    - Gruntfile.js
+    - LICENSE
+    - README.md
         
 
 # Site owner

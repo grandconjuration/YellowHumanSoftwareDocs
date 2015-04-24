@@ -57,7 +57,7 @@ prose:
     - favicon.ico
     - package.json
 
-metadata:
+  metadata:
     _posts:
       - name: "layout"
         field:
@@ -88,8 +88,6 @@ metadata:
           element: "text"
           label: "Permalink"
           value: ""
-
-        
 
 # Site owner
 owner:

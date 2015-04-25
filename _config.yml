@@ -79,7 +79,9 @@ prose:
           label: "title"
           value: "New title"
       - name: "date"
-          field: "text"
+        field:
+          element: "text"
+          label: "Date"
           value: CURRENT_DATETIME
     _posts/static:
       - name: "layout"

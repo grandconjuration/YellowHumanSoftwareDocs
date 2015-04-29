@@ -46,9 +46,10 @@
     @include media($medium) {
       transform: translateX(em(-600)); /* reset slide position */
     }
+    
     @include media($large) {
       transform: translateX(em(-900)); /* reset slide position */
-    }
+    } 
   }
 }
 

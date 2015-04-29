@@ -4,7 +4,7 @@
   url: /categories/cat
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: 400x250.gif
-- title: More stuff that should work
-  url: /categories/update/
-  excerpt: "Just checking to see wether this will actually work again"
-  image: 400x250.gif
+- title: Admin
+url: http://static.simonwhiteley.nl/prose/index.html
+ excerpt: "Prose io" 
+ 

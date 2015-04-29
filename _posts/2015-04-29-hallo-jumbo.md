@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 published: true
 title: "Hallo Jumbo!"
 ---

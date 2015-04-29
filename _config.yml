@@ -82,7 +82,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "page"
+          value: "article"
       - name: "permalink"
         field:
           element: "text"

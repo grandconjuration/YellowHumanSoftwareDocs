@@ -65,6 +65,7 @@ prose:
           value: "post"
       - name: "modified"
         field:
+          label: "test field" 
           element: "text"
           value: "CURRENT_DATETIME"
       - name: "tags"

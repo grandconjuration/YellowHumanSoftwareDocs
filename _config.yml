@@ -62,7 +62,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "article"
       - name: "modified"
         field:
           label: "test field" 

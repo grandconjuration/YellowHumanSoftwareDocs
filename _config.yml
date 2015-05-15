@@ -11,7 +11,6 @@ locale: nl
 url: 
 repo: swhiteley91/YellowHumanSoftwareDocs
 branch: master
-proseurl: http://static.simonwhiteley.nl/prose/index.html
 
 # Jekyll configuration12
 

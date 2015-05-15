@@ -9,6 +9,9 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale: nl
 url: 
+repo: swhiteley91/YellowHumanSoftwareDocs
+branch: master
+proseurl: http://static.simonwhiteley.nl/prose/index.html
 
 # Jekyll configuration12
 

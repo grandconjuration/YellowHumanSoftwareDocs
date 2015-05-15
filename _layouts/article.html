@@ -24,6 +24,8 @@ layout: default
 					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
+					<a href="http://static.simonwhiteley.nl/prose/index.html#{{site.repo}}/new/{{site.branch}}/_posts" target="_blank">New article</a>
+					 | <a href="http://static.simonwhiteley.nl/prose/index.html#{{site.repo}}/edit/{{site.branch}}/{{ page.path }}" target="_blank">Edit this article</a>
 				</footer><!-- /.footer -->
 				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}

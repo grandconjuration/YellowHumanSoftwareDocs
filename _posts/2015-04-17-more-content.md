@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Rollercoaster post"
 categories: themepark
 published: true

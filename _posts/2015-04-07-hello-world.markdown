@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Welcome to my website!"
 categories: update website
 published: true
